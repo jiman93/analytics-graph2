@@ -1,0 +1,8 @@
+[
+    {"ship": 1, "outstanding": 280, "completed": 2000, "$spent":180230, "$left":62000},
+    {"ship": 2, "outstanding": 800, "completed": 1200, "$spent":220000, "$left":83230},
+    {"ship": 3, "outstanding": 328, "completed": 2340, "$spent":280000, "$left":70180},
+    {"ship": 4, "outstanding": 480, "completed": 3300, "$spent":263280, "$left":130000},
+    {"ship": 5, "outstanding": 108, "completed": 4800, "$spent":348900, "$left":32000}
+
+]
